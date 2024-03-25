@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS services_db;
+CREATE DATABASE services_db;
+
